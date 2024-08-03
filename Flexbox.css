@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    background-color: rgb(155, 13, 103);
+    padding: 30px;
+}
+
+.main{
+    justify-content: space-between;
+    text-align: justify;
+    display: flex;
+    margin-top: -20px;
+}
+
+.box{
+    padding: 10px;
+    background-color: rgb(13, 213, 190);
+    margin: 5px;
+}
+
+h2{
+    text-align: center;
+}
